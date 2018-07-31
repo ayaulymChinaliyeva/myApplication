@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LightApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="likes_count" formatted="false">Likes: %s</string>
+    <string name="choiceTextview">I am a...</string>
+    <string name="volunteerButtonText">Volunteer</string>
+    <string name="organizationButtonText">Organization</string>
+    <string name="intentMessage"> </string>
+    <string name="welcomePageTitle1">SEE</string>
+    <string name="welcomePageTitle2">CHOOSE</string>
+    <string name="welcomePageTitle3">...AND APPLY!</string>
+    <string name="welcomePageText1">the most reliable and verified ranking of volunteering organizations based on YOUR opinion.</string>
+    <string name="welcomePageText2">The first-class volunteering opportunities matching YOUR experience, interests and time availability</string>
+    <string name="welcomePageText3">3 quick steps to realize and fulfill YOUR potential to 100%</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
